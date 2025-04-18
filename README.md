@@ -58,7 +58,7 @@ ATM{CTF} este mai mult decât o platformă – este un spațiu creat cu pasiune 
 1. **Clonează Repositoriul**:
    ```bash
    git clone https://github.com/RusuCalinPetru/ATM-CTF--Platform.git
-   cd atm-ctf
+   cd ATM-CTF--Platform
    ```
 2. **Configurează Fișierele de Mediu**:
    - Completează detaliile necesare (de ex., URI MongoDB, chei API).
