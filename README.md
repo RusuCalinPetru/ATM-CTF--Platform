@@ -1,4 +1,4 @@
-# ATM{CTF} - Platforma Ta Supremă de CTF
+# ATM{CTF} - Platforma ta supremă de CTF
 
 Bine ai venit pe **ATM{CTF}**, platforma de top Capture The Flag (CTF) creată pentru studenți, pasionați de securitate cibernetică și minți curioase dornice să își testeze și să își dezvolte abilitățile într-un mediu dinamic, captivant și securizat. Fie că ești începător și pășești pentru prima dată în lumea securității cibernetice sau un profesionist experimentat în căutare de provocări, ATM{CTF} îți oferă o experiență captivantă care îți va aprinde pasiunea pentru rezolvarea problemelor și hacking. Această platformă a fost dezvoltată în întregime de mine, cu dedicare și entuziasm pentru a aduce o experiență unică comunității de securitate cibernetică.
 
