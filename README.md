@@ -50,6 +50,7 @@ ATM{CTF} este mai mult decât o platformă – este un spațiu creat cu pasiune 
 ## Cum Începi
 
 ### Cerințe Prealabile
+- **Tehnologii utilizate**: React, MongoDB, Docker.
 - **Node.js**: Asigură-te că ai Node.js instalat.
 - **MongoDB**: Configurează o bază de date MongoDB (descarcă de la [MongoDB Community](https://www.mongodb.com/try/download/community) pentru testare pe Windows).
 - **Opțional**: Docker pentru implementări containerizate.
